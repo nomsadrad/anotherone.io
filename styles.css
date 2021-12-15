@@ -1,0 +1,10 @@
+selector
+properties:value
+.carousel-inner
+{
+
+    width: 400px;
+	height:300px;
+	margin:10px;
+
+}
